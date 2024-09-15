@@ -13,3 +13,6 @@ The system is a library information system designed for unregistered users to br
 
 ### User reservations page
 <img src="https://github.com/Jozcas/library-information-system/blob/master/app%20screenshots/reservation%20page.png?raw=true" width="100%" height="100%">
+
+### Used technologies
+- php
